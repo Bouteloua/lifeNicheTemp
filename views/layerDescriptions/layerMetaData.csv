@@ -1,0 +1,81 @@
+LayerName,FilterType,typeCode,TypeCodeDescription,LayerDescription,ProjectionDate,RCP,Correlated
+agclim.current.aridity,agclimate,aridity,CRU Metric of Mean Annual Aridity,CRU Metric of Mean Annual Aridity,current,current,no
+agclim.current.bio06,agclimate,bio06,Min Temperature of Coldest Month,Min Temperature of Coldest Month,current,current,no
+agclim.current.bio12,agclimate,bio12,Annual Precipitation,Annual Precipitation,current,current,no
+agclim.current.gdd5,agclimate,gdd5,Growing Degree Days 5C Baseline,Growing Degree Days 5C Baseline,current,current,no
+agclim.current.petmn,agclimate,petmn,CRU Mean Annual Evapotranspiration,CRU Mean Annual Evapotranspiration,current,current,no
+agclim.he2650.aridity,agclimate,aridity,CRU Metric of Mean Annual Aridity,CRU Metric of Mean Annual Aridity,2050,26,no
+agclim.he2650.bio06,agclimate,bio06,Min Temperature of Coldest Month,Min Temperature of Coldest Month,2050,26,no
+agclim.he2650.bio12,agclimate,bio12,Annual Precipitation,Annual Precipitation,2050,26,no
+agclim.he2650.gdd5,agclimate,gdd5,Growing Degree Days 5C Baseline,Growing Degree Days 5C Baseline,2050,26,no
+agclim.he2650.petmn,agclimate,petmn,CRU Mean Annual Evapotranspiration,CRU Mean Annual Evapotranspiration,2050,26,no
+agclim.he2670.aridity,agclimate,aridity,CRU Metric of Mean Annual Aridity,CRU Metric of Mean Annual Aridity,2070,26,no
+agclim.he2670.bio06,agclimate,bio06,Min Temperature of Coldest Month,Min Temperature of Coldest Month,2070,26,no
+agclim.he2670.bio12,agclimate,bio12,Annual Precipitation,Annual Precipitation,2070,26,no
+agclim.he2670.gdd5,agclimate,gdd5,Growing Degree Days 5C Baseline,Growing Degree Days 5C Baseline,2070,26,no
+agclim.he2670.petmn,agclimate,petmn,CRU Mean Annual Evapotranspiration,CRU Mean Annual Evapotranspiration,2070,26,no
+agclim.he4550.aridity,agclimate,aridity,CRU Metric of Mean Annual Aridity,CRU Metric of Mean Annual Aridity,2050,45,no
+agclim.he4550.bio06,agclimate,bio06,Min Temperature of Coldest Month,Min Temperature of Coldest Month,2050,45,no
+agclim.he4550.bio12,agclimate,bio12,Annual Precipitation,Annual Precipitation,2050,45,no
+agclim.he4550.gdd5,agclimate,gdd5,Growing Degree Days 5C Baseline,Growing Degree Days 5C Baseline,2050,45,no
+agclim.he4550.petmn,agclimate,petmn,CRU Mean Annual Evapotranspiration,CRU Mean Annual Evapotranspiration,2050,45,no
+agclim.he4570.aridity,agclimate,aridity,CRU Metric of Mean Annual Aridity,CRU Metric of Mean Annual Aridity,2070,45,no
+agclim.he4570.bio06,agclimate,bio06,Min Temperature of Coldest Month,Min Temperature of Coldest Month,2070,45,no
+agclim.he4570.bio12,agclimate,bio12,Annual Precipitation,Annual Precipitation,2070,45,no
+agclim.he4570.gdd5,agclimate,gdd5,Growing Degree Days 5C Baseline,Growing Degree Days 5C Baseline,2070,45,no
+agclim.he4570.petmn,agclimate,petmn,CRU Mean Annual Evapotranspiration,CRU Mean Annual Evapotranspiration,2070,45,no
+agclim.he6050.aridity,agclimate,aridity,CRU Metric of Mean Annual Aridity,CRU Metric of Mean Annual Aridity,2050,60,no
+agclim.he6050.bio06,agclimate,bio06,Min Temperature of Coldest Month,Min Temperature of Coldest Month,2050,60,no
+agclim.he6050.bio12,agclimate,bio12,Annual Precipitation,Annual Precipitation,2050,60,no
+agclim.he6050.gdd5,agclimate,gdd5,Growing Degree Days 5C Baseline,Growing Degree Days 5C Baseline,2050,60,no
+agclim.he6050.petmn,agclimate,petmn,CRU Mean Annual Evapotranspiration,CRU Mean Annual Evapotranspiration,2050,60,no
+agclim.he6070.aridity,agclimate,aridity,CRU Metric of Mean Annual Aridity,CRU Metric of Mean Annual Aridity,2070,60,no
+agclim.he6070.bio06,agclimate,bio06,Min Temperature of Coldest Month,Min Temperature of Coldest Month,2070,60,no
+agclim.he6070.bio12,agclimate,bio12,Annual Precipitation,Annual Precipitation,2070,60,no
+agclim.he6070.gdd5,agclimate,gdd5,Growing Degree Days 5C Baseline,Growing Degree Days 5C Baseline,2070,60,no
+agclim.he6070.petmn,agclimate,petmn,CRU Mean Annual Evapotranspiration,CRU Mean Annual Evapotranspiration,2070,60,no
+agclim.he8550.aridity,agclimate,aridity,CRU Metric of Mean Annual Aridity,CRU Metric of Mean Annual Aridity,2050,85,no
+agclim.he8550.bio06,agclimate,bio06,Min Temperature of Coldest Month,Min Temperature of Coldest Month,2050,85,no
+agclim.he8550.bio12,agclimate,bio12,Annual Precipitation,Annual Precipitation,2050,85,no
+agclim.he8550.gdd5,agclimate,gdd5,Growing Degree Days 5C Baseline,Growing Degree Days 5C Baseline,2050,85,no
+agclim.he8550.petmn,agclimate,petmn,CRU Mean Annual Evapotranspiration,CRU Mean Annual Evapotranspiration,2050,85,no
+agclim.he8570.aridity,agclimate,aridity,CRU Metric of Mean Annual Aridity,CRU Metric of Mean Annual Aridity,2070,85,no
+agclim.he8570.bio06,agclimate,bio06,Min Temperature of Coldest Month,Min Temperature of Coldest Month,2070,85,no
+agclim.he8570.bio12,agclimate,bio12,Annual Precipitation,Annual Precipitation,2070,85,no
+agclim.he8570.gdd5,agclimate,gdd5,Growing Degree Days 5C Baseline,Growing Degree Days 5C Baseline,2070,85,no
+agclim.he8570.petmn,agclimate,petmn,CRU Mean Annual Evapotranspiration,CRU Mean Annual Evapotranspiration,2070,85,no
+clim.current.bio01,climate,bio01,Annual Mean Temperature,Annual Mean Temperature Current Climate 1960-2000,current,current,no
+clim.current.bio12,climate,bio12,Annual Precipitation,Annual Precipitation Current Climate 1960-2000,current,current,no
+clim.current.bio15,climate,bio15,Precipitation Seasonality (Coefficient of Variation),Precipitation Seasonality (Coefficient of Variation) Current Climate 1960-2000,current,current,no
+clim.current.bio18,climate,bio18,Precipitation of Warmest Quarter,Precipitation of Warmest Quarter Current Climate 1960-2000,current,current,no
+clim.current.bio07,climate,bio07,Temperature Annual Range (BIO5-BIO6),Temperature Annual Range (BIO5-BIO6) Current Climate 1960-2000,current,current,no
+clim.current.bio08,climate,bio08,Mean Temperature of Wettest Quarter,Mean Temperature of Wettest Quarter Current Climate 1960-2000,current,current,no
+clim.ggs4550.bio01,climate,bio01,Annual Mean Temperature,Annual Mean Temperature GS RCP45 2050,2050,45,no
+clim.ggs4550.bio12,climate,bio12,Annual Precipitation,Annual Precipitation GS RCP45 2050,2050,45,no
+clim.ggs4550.bio15,climate,bio15,Precipitation Seasonality (Coefficient of Variation),Precipitation Seasonality (Coefficient of Variation) GS RCP45 2050,2050,45,no
+clim.ggs4550.bio18,climate,bio18,Precipitation of Warmest Quarter,Precipitation of Warmest Quarter GS RCP45 2050,2050,45,no
+clim.ggs4550.bio07,climate,bio07,Temperature Annual Range (BIO5-BIO6),Temperature Annual Range (BIO5-BIO6) GS RCP45 2050,2050,45,no
+clim.ggs4550.bio08,climate,bio08,Mean Temperature of Wettest Quarter,Mean Temperature of Wettest Quarter GS RCP45 2050,2050,45,no
+clim.hhe4550.bio01,climate,bio01,Annual Mean Temperature,Annual Mean Temperature HE RCP45 2050,2050,45,no
+clim.hhe4550.bio12,climate,bio12,Annual Precipitation,Annual Precipitation HE RCP45 2050,2050,45,no
+clim.hhe4550.bio15,climate,bio15,Precipitation Seasonality (Coefficient of Variation),Precipitation Seasonality (Coefficient of Variation) HE RCP45 2050,2050,45,no
+clim.hhe4550.bio18,climate,bio18,Precipitation of Warmest Quarter,Precipitation of Warmest Quarter HE RCP45 2050,2050,45,no
+clim.hhe4550.bio07,climate,bio07,Temperature Annual Range (BIO5-BIO6),Temperature Annual Range (BIO5-BIO6) HE RCP45 2050,2050,45,no
+clim.hhe4550.bio08,climate,bio08,Mean Temperature of Wettest Quarter,Mean Temperature of Wettest Quarter HE RCP45 2050,2050,45,no
+clim.hhe4570.bio01,climate,bio01,Annual Mean Temperature,Annual Mean Temperature HE RCP45 2070,2070,45,no
+clim.hhe4570.bio12,climate,bio12,Annual Precipitation,Annual Precipitation HE RCP45 2070,2070,45,no
+clim.hhe4570.bio15,climate,bio15,Precipitation Seasonality (Coefficient of Variation),Precipitation Seasonality (Coefficient of Variation) HE RCP45 2070,2070,45,no
+clim.hhe4570.bio18,climate,bio18,Precipitation of Warmest Quarter,Precipitation of Warmest Quarter HE RCP45 2070,2070,45,no
+clim.hhe4570.bio07,climate,bio07,Temperature Annual Range (BIO5-BIO6),Temperature Annual Range (BIO5-BIO6) HE RCP45 2070,2070,45,no
+clim.hhe4570.bio08,climate,bio08,Mean Temperature of Wettest Quarter,Mean Temperature of Wettest Quarter HE RCP45 2070,2070,45,no
+env.gmted2010.elev_mean,environmental,elev_mean,USGS GMTED2010 Mean Elevation,USGS GMTED2010 Mean Elevation,current,current,no
+env.hwsd.t_clay,environmental,t_clay,HWSD topsoil clay,Harmonized World Soil Database topsoil clay (% frac.),current,current,no
+env.hwsd.t_ece,environmental,t_ece,HWSD topsoil ECE,Harmonized World Soil Database topsoil ECE (salinity dS/m),current,current,no
+env.hwsd.t_gravel,environmental,t_gravel,HWSD topsoil gravel,Harmonized World Soil Database topsoil gravel (% vol.),current,current,no
+env.hwsd.t_oc,environmental,t_oc,HWSD topsoil oc,Harmonized World Soil Database topsoil organic carbon (% weight),current,current,no
+env.hwsd.t_ph,environmental,t_ph,HWSD topsoil pH,Harmonized World Soil Database topsoil pH (log[H+]),current,current,no
+env.hwsd.t_sand,environmental,t_sand,HWSD topsoil sand,Harmonized World Soil Database topsoil sand (% frac.),current,current,no
+env.hwsd.t_silt,environmental,t_silt,HWSD topsoil silt,Harmonized World Soil Database topsoil silt (% frac.),current,current,no
+spat.svd.pc1,spatial,pc1,PC Axis 1 of Distance Matrix,PC Axis 1 of Distance Matrix spatial,current,current,no
+spat.svd.pc2,spatial,pc2,PC Axis 2 of Distance Matrix,PC Axis 2 of Distance Matrix spatial,current,current,no
+spat.svd.pc3,spatial,pc3,PC Axis 3 of Distance Matrix,PC Axis 3 of Distance Matrix spatial,current,current,no
